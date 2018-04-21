@@ -1,5 +1,5 @@
 # EspRfRemote
-Sketch to use an ESP mit Arduino as a RF remote for chap-ass power outlets (BH9938)
+Sketch to use an ESP mit Arduino as a RF remote for  Eumig Mod. RC 402
 
 Step 1:
 install Arduino IDE
